@@ -12,6 +12,15 @@ Download the dataset from: https://www.kaggle.com/datasets/prasad22/retail-trans
 
 If needed you can change them.
 
+Try to store all the files in the same directory like this:
+Main directory (Ex. D:\Software\Retail_Data)
+│   ml_task.py
+│   Retail_Transactions_Dataset.csv
+│
+└───mapreduce
+        mapper.py
+        reducer.py
+
 ## Commands used:
 
 cd C:\hadoop\sbin
