@@ -1,9 +1,15 @@
 # SCALABLE BIG DATA SOLUTIONS WITH HADOOP ARCHITECTURE AND MAPREDUCE ABSTRACTION
 
-#### Note: 
+## Note: 
+
+Download the dataset from: https://www.kaggle.com/datasets/prasad22/retail-transactions-dataset
+
 "D:\Software\Retail_Data" is the working directory.
+
 "D:\Software\Retail_Data\Retail_Transactions_Dataset.csv" is the location of the csv file.
+
 "D:\Software\Retail_Data\mapreduce" is the location of the mapreduce files.
+
 If needed you can change them.
 
 ## Commands used:
